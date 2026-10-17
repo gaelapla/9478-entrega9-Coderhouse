@@ -416,8 +416,9 @@ p {
 }
 
 #carouselProductos {
-
-
+  max-width: 700px;
+  margin: 0 auto;
+}
 
 /* Sobre nosotros */
 .about h1 {
@@ -458,9 +459,4 @@ p {
 .about-grid .historia h2 {
   font-size: 20px;
   margin-bottom: 12px;
-}
-
-  
-  max-width: 700px;
-  margin: 0 auto;
 }
